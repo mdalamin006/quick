@@ -1,4 +1,4 @@
 # quick
 Quick projects here
 preview
-https://mdalaminahmed.github.io/quick/
+https://mdalamina006.github.io/quick/
