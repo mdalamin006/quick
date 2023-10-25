@@ -158,9 +158,8 @@ color:#0F2656;
 color:#0F2656;
 font-size: 16px;
 margin-left: 17px;
-    font-weight: 200;
-    
-    line-height: 27px;
+font-weight: 200;
+ line-height: 27px;
 }
 .c_single:last-child{
     margin:0;
@@ -180,13 +179,13 @@ background-color:#FFF7E8 ;
 background-color: #008AFF;
 text-align: center;
 padding: 18px 0;
-color:white;
+color: white;
 }
 p a{
-    color:white;
     text-decoration: none;
     text-transform: uppercase;
     letter-spacing: 4px;
     font-weight: 700;
+    color: white;
 }
 /* Footer end */
