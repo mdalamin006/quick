@@ -22,7 +22,7 @@ header{
     width:10%;
     float:left;
 }
-.h_img img{
+.h_img  img{
  width:100%;
  
 }
@@ -121,7 +121,8 @@ overflow: hidden;
     margin: 0;
     font-size: 16px;
     font-weight: 200;
-    color:#0F2656;
+    color: #0F2656;
+    line-height: 24px;
 }
 .right{
     float: right;
@@ -139,7 +140,9 @@ overflow: hidden;
 }
 /* Succesful End*/
 /* Creativity Start*/
-
+.creativity{
+    padding: 63px 0;
+}
 .c_start{
 overflow: hidden;
 }
@@ -147,7 +150,7 @@ overflow: hidden;
 
 width:31%;
 float: left;
-margin-right: 38px;
+margin-right: 3%;
 }
 
 .c_img img{
@@ -188,16 +191,15 @@ text-align: center;
 
 }
 .l_text{
-    padding: 26px 0;
+    padding: 18px 0;
  color:#FDEBED;
- font-size: 12px;
- font-weight: 200;
+ font-size: 16px;
 }
-span{
-color:white;
-text-transform: uppercase;
+.l_text p a{
+    color:white;
+    text-decoration: none;
+    text-transform: uppercase;
     letter-spacing: 4px;
     font-weight: 700;
-    font-size: 15px;
 }
 /* Footer end */
