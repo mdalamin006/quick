@@ -9,14 +9,12 @@ body{
 header{
     border:3px solid #EEF0F3;
     padding-top:6px;
-    padding-bottom:5px;
-     
+    padding-bottom:5px;   
 }
 .container{
     max-width:90%;
     margin:0 auto;
-    overflow: hidden;
-    
+    overflow: hidden;  
 }
 .h_img{
     width:10%;
@@ -24,13 +22,11 @@ header{
 }
 .h_img  img{
  width:100%;
- 
 }
 .menu{
  float:right;
 width:41%;
 overflow:hidden;
-
 }
 .menu ul li{
     margin: 0 4%;
@@ -186,7 +182,7 @@ text-align: center;
 padding: 18px 0;
 color:white;
 }
- p a{
+p a{
     color:white;
     text-decoration: none;
     text-transform: uppercase;
